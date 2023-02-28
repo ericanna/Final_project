@@ -1,6 +1,6 @@
-# Final project for the Data Analytics' Ironhack Bootcamp.
-
 # Reading Women
+Final project for the Data Analytics' Ironhack Bootcamp.
+
 
 ## Goal of the project
 Create a book recommendation system that recommends exclusively books written by female authors.
